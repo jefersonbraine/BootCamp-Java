@@ -1,6 +1,6 @@
 # Santander Bootcamp - Fullstack Java+Angular
 
-Neste Bootcamp será aprendido de tudo para ser um FUllSTACH desde:
+Neste Bootcamp será aprendido toda as ferramentas necessárias para ser um FUllSTACK desde:
 
 	1. Front end passando por HTML, CSS e JavaScript;
 	2. Como usar o Angular para ganhar produtividade rotas e Serviços;
@@ -11,7 +11,7 @@ Neste Bootcamp será aprendido de tudo para ser um FUllSTACH desde:
 
 # Bradesco - Java Cloud Native
 
-E como complemente ao Bootcamp - Fullstack acima, nesse irei ver sobre:
+E como complemento ao Bootcamp - Fullstack acima, nesse irei ver sobre:
 
 	1. Principios de desenvolvimento de aplicações;
 	2. Sintaxe com Java; 
