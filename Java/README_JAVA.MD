@@ -83,7 +83,46 @@ int somar (int numeroUm, int numero2)
 String formatarCep (long cep)
 ```
 
+## Identação
 
+Basicamente indentar é um termo utilizado para escrever o código do programa de forma hierárquica, facilitando assim a visualização e o entendimento do programa.
+
+baixo, veja um exemplo de um algoritmo de validação de aprovação de estudante. Em uma aba, temos um código sem identação nenhuma, e na outra aba, temos o mesmo código seguindo um padrão de identação. Observe como é muito mais fácil entender a hierarquia do código na segunda a
+
+**Sem identação:**
+
+```java
+// arquivo BoletimEstudantil.java
+
+public class BoletimEstudantil {
+public static void main (String[] args) {
+int mediaFinal = 6;
+if(mediaFinal<6)
+System.out.println("REPROVADO");
+else if(mediaFinal==6)
+System.out.println("PROVA MINERVA");
+else
+Sytem.out.println("APROVADO")
+}
+}
+```
+
+**Com identação:**
+
+```java
+public class BoletimEstudantil {
+    public static void main(String[] args) {
+        int mediaFinal = 7;
+        if(mediaFinal < 6)
+            System.out.println("REPROVADO");
+        else if(mediaFinal == 6)
+            System.out.print("PROVA MINERVA");
+        else
+            System.out.print("APROVADO");
+    }
+}
+
+```
 
 
 

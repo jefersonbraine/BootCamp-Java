@@ -1,3 +1,5 @@
+package edu.jeferson.primeirasemana;
+
 public class MinhaClasse {
 
    public static void main(String[] args) {
