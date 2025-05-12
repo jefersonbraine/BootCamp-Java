@@ -1,4 +1,4 @@
-package edu.jeferson.segundasemana;
+package edu.jeferson.primeirasemana;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
